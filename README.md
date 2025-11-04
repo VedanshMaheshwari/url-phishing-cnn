@@ -1,4 +1,4 @@
-# 🧠 CNN-Based Phishing URL Classification (Character-Level, PyTorch)
+# CNN-Based Phishing URL Classification (Character-Level, PyTorch)
 
 This project trains a **character-level CNN** to classify URLs as phishing vs legitimate using your dataset at `data/urlset.csv`.
 
